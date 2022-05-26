@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807268175194",
+    "project_id": "bazar-8a660",
+    "storage_bucket": "bazar-8a660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807268175194:android:7d9517091d92b494a0b763",
+        "android_client_info": {
+          "package_name": "com.johnsonnyamweya.bazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807268175194-b1fsvsp03opflb43fovup51ncmn5fi31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltFKWQ_fPwZGA8AdbuEtoBrD5iRyZO2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807268175194-b1fsvsp03opflb43fovup51ncmn5fi31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
